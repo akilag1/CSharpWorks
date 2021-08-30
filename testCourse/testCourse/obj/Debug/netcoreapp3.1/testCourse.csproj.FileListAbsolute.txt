@@ -1,0 +1,13 @@
+C:\Users\A.G\source\repos\testCourse\testCourse\bin\Debug\netcoreapp3.1\testCourse.exe
+C:\Users\A.G\source\repos\testCourse\testCourse\bin\Debug\netcoreapp3.1\testCourse.deps.json
+C:\Users\A.G\source\repos\testCourse\testCourse\bin\Debug\netcoreapp3.1\testCourse.runtimeconfig.json
+C:\Users\A.G\source\repos\testCourse\testCourse\bin\Debug\netcoreapp3.1\testCourse.runtimeconfig.dev.json
+C:\Users\A.G\source\repos\testCourse\testCourse\bin\Debug\netcoreapp3.1\testCourse.dll
+C:\Users\A.G\source\repos\testCourse\testCourse\bin\Debug\netcoreapp3.1\testCourse.pdb
+C:\Users\A.G\source\repos\testCourse\testCourse\obj\Debug\netcoreapp3.1\testCourse.csproj.AssemblyReference.cache
+C:\Users\A.G\source\repos\testCourse\testCourse\obj\Debug\netcoreapp3.1\testCourse.AssemblyInfoInputs.cache
+C:\Users\A.G\source\repos\testCourse\testCourse\obj\Debug\netcoreapp3.1\testCourse.AssemblyInfo.cs
+C:\Users\A.G\source\repos\testCourse\testCourse\obj\Debug\netcoreapp3.1\testCourse.csproj.CoreCompileInputs.cache
+C:\Users\A.G\source\repos\testCourse\testCourse\obj\Debug\netcoreapp3.1\testCourse.dll
+C:\Users\A.G\source\repos\testCourse\testCourse\obj\Debug\netcoreapp3.1\testCourse.pdb
+C:\Users\A.G\source\repos\testCourse\testCourse\obj\Debug\netcoreapp3.1\testCourse.genruntimeconfig.cache
